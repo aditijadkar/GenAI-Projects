@@ -1,7 +1,7 @@
 
 # Text Generation with GPT-2
 
-Train a model to generate coherent and contextually relevant text based on a given prompt. Starting with GPT-2, a transformer model developed by OpenAI, you will learn how to fine-tune the model on a custom dataset to create text that mimics the style and structure of your training data.
+Train a model to generate coherent and contextually relevant text based on a given prompt. Starting with GPT-2, a transformer model developed by OpenAI, fine-tune the model on a custom dataset to create text that mimics the style and structure of your training data.
 
 This is a Flask-based Generative AI application that utilizes GPT-2 for text generation and includes a user-friendly interface.
 
